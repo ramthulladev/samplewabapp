@@ -1,7 +1,7 @@
 <html>
 <body>
   <h2>Hello ..........Ramthulla........... ?</h2>
-<h3>Welcome to Cloud With  AMBAVARAPU RAMTHULLA| Microsoft Certified Security Engineer, Azure & AWS Solution Architect </h3>
+<h3>Welcome to Cloud With  AMBAVARAPU RAMTHULLA| Senior Software Engineer, Azure & AWS Solution Architect </h3>
   
 <marquee>Welcome to Cloud With Ramthulla</marquee>
 
